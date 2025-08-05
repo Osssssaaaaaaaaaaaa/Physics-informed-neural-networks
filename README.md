@@ -1,1 +1,0 @@
-# Physics-informed-neural-networks
